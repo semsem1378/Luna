@@ -1,0 +1,17 @@
+section{
+    min-height: 100vh;
+    height: unset !important;
+}
+div.container>div{
+    height: 200px;
+}
+div.cards{
+    height: unset !important;
+    min-height: 100vh;
+}
+div.cards>div{
+    margin: 5px;
+}
+div.cards h2 {
+    font-size: 1.5rem;
+}

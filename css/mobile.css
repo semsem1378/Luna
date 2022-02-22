@@ -1,0 +1,32 @@
+div.cards{
+    flex-direction: column;
+}
+div.scroller{
+    display: none;
+}
+div.theme{
+    display: block !important;
+}
+div.cards>div{
+    padding: 1.5rem;
+}
+div.navLeftSide,div.navRightSide{
+    display: none;
+}
+div.container > div{
+    flex-direction: column;
+    height: unset !important;
+}
+span.innerTitle{
+    display: none ;
+}
+div.textTitle{
+  margin-bottom: 5px;
+  font-weight: 700;
+}
+div.centerText{
+    font-size: 6rem;
+}
+section.fourthSection{
+    grid-template-columns: repeat(1,1fr);
+}

@@ -1,0 +1,17 @@
+div.picCards{
+    height: 300px;
+    width: 300px;
+}
+h2{
+    font-size: 2rem;
+}
+
+section.fourthSection{
+    grid-template-columns: repeat(2,1fr);
+}
+.textTitle{
+    font-size: 1.15rem;
+}
+div.container{
+    width: 90%;
+}
